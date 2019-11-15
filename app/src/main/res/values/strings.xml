@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarLoan</string>
+    <string name="value">Value:</string>
+    <string name="down_payment">Down Payment:</string>
+    <string name="loan_period">Loan Period:</string>
+    <string name="intrest_rate">Intrest Rate:</string>
+    <string name="rm0_00">RM0.00</string>
+    <string name="year_s">year(s)</string>
+    <string name="calculate">Calculate</string>
+    <string name="monthly_repayment">Monthly Repayment:</string>
+    <string name="interest">Interest:</string>
+    <string name="car_loan">Car Loan:</string>
+</resources>
